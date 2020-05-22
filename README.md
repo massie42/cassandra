@@ -1,7 +1,7 @@
 # Cassandra
 Useful information about changing adding nodes to and removing nodes from a Cassandra cluster.
 
-# Background infomrmation
+# Background information
 For a project we needed to have more and bigger virtual machines in Micorsoft Azure to support the increase in load on the system. 
 We wanted to move from a three node cluster to a five node cluster without downtime and without loosing data. 
 
